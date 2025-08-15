@@ -1,0 +1,145 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Movies.GraphQL.Client/1.0.0": {
+        "dependencies": {
+          "GraphQL.Client": "6.1.0",
+          "GraphQL.Client.Serializer.SystemTextJson": "6.1.0",
+          "Movies.Models": "1.0.0"
+        },
+        "runtime": {
+          "Movies.GraphQL.Client.dll": {}
+        }
+      },
+      "GraphQL.Client/6.1.0": {
+        "dependencies": {
+          "GraphQL.Client.Abstractions": "6.1.0",
+          "GraphQL.Client.Abstractions.Websocket": "6.1.0",
+          "System.Reactive": "6.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/GraphQL.Client.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "GraphQL.Client.Abstractions/6.1.0": {
+        "dependencies": {
+          "GraphQL.Primitives": "6.1.0"
+        },
+        "runtime": {
+          "lib/net8.0/GraphQL.Client.Abstractions.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "GraphQL.Client.Abstractions.Websocket/6.1.0": {
+        "dependencies": {
+          "GraphQL.Client.Abstractions": "6.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.Client.Abstractions.Websocket.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "GraphQL.Client.Serializer.SystemTextJson/6.1.0": {
+        "dependencies": {
+          "GraphQL.Client.Abstractions.Websocket": "6.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Client.Serializer.SystemTextJson.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "GraphQL.Primitives/6.1.0": {
+        "runtime": {
+          "lib/net8.0/GraphQL.Primitives.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "System.Reactive/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.1"
+          }
+        }
+      },
+      "Movies.Models/1.0.0": {
+        "runtime": {
+          "Movies.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.GraphQL.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphQL.Client/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oKliAxtNuZDMxO9079mjSbwA0YwhjXBzVnVPuNZ3HI4OllO++CcOLT30l90mM/fxCAMaa8GU4ZYMwD9YjLkyiw==",
+      "path": "graphql.client/6.1.0",
+      "hashPath": "graphql.client.6.1.0.nupkg.sha512"
+    },
+    "GraphQL.Client.Abstractions/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Za31wjKLEeROZYJmp0Lmj/TLQ1Yw6x6QM0JHABcuyMC3OSopr34ufayrtdxtbL1a3129FTVFKOFC0hcooSQoJQ==",
+      "path": "graphql.client.abstractions/6.1.0",
+      "hashPath": "graphql.client.abstractions.6.1.0.nupkg.sha512"
+    },
+    "GraphQL.Client.Abstractions.Websocket/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PjdG3q4MzPsa5NiBOBhuIRMRTo59der5bFmX2r1gSS3RIjytwpooxF2RffFCBh16sqbwuH1/dllDcNG+EJt1qA==",
+      "path": "graphql.client.abstractions.websocket/6.1.0",
+      "hashPath": "graphql.client.abstractions.websocket.6.1.0.nupkg.sha512"
+    },
+    "GraphQL.Client.Serializer.SystemTextJson/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9NoK4aFbSoKy+k2DaetliutrMbDSaKSDfhIaYU7NhqQXVE02eobpL2JxG4HBwxTqwzEonsbcew3i/g1cE9QucQ==",
+      "path": "graphql.client.serializer.systemtextjson/6.1.0",
+      "hashPath": "graphql.client.serializer.systemtextjson.6.1.0.nupkg.sha512"
+    },
+    "GraphQL.Primitives/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L8yQ70Wd9p8hMJvnmpgyZfr2R6Q7S0/lPyEBI1tacJa5XzsoJSVtHdmfsMaHyufwk03hlUsBXgNerAs66kxHdA==",
+      "path": "graphql.primitives/6.1.0",
+      "hashPath": "graphql.primitives.6.1.0.nupkg.sha512"
+    },
+    "System.Reactive/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31kfaW4ZupZzPsI5PVe77VhnvFF55qgma7KZr/E0iFTs6fmdhhG8j0mgEx620iLTey1EynOkEfnyTjtNEpJzGw==",
+      "path": "system.reactive/6.0.0",
+      "hashPath": "system.reactive.6.0.0.nupkg.sha512"
+    },
+    "Movies.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

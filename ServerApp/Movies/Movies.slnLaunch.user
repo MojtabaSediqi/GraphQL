@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Movies.API\\Movies.API.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Movies.Client.Console\\Movies.Client.Console.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

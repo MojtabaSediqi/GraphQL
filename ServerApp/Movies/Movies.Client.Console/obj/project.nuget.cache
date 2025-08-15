@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AfwBsbezaE=",
+  "success": true,
+  "projectFilePath": "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.Client.Console\\Movies.Client.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\graphql.client\\6.1.0\\graphql.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\graphql.client.abstractions\\6.1.0\\graphql.client.abstractions.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\graphql.client.abstractions.websocket\\6.1.0\\graphql.client.abstractions.websocket.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\graphql.client.serializer.systemtextjson\\6.1.0\\graphql.client.serializer.systemtextjson.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\graphql.primitives\\6.1.0\\graphql.primitives.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

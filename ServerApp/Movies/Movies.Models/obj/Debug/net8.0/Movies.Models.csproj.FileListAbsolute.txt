@@ -1,0 +1,11 @@
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\bin\Debug\net8.0\Movies.Models.deps.json
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\bin\Debug\net8.0\Movies.Models.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\bin\Debug\net8.0\Movies.Models.pdb
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.AssemblyInfoInputs.cache
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.AssemblyInfo.cs
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.csproj.CoreCompileInputs.cache
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\refint\Movies.Models.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\Movies.Models.pdb
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.Models\obj\Debug\net8.0\ref\Movies.Models.dll

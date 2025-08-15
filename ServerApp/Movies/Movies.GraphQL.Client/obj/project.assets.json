@@ -1,0 +1,339 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GraphQL.Client/6.1.0": {
+        "type": "package",
+        "dependencies": {
+          "GraphQL.Client.Abstractions": "6.1.0",
+          "GraphQL.Client.Abstractions.Websocket": "6.1.0",
+          "System.Reactive": "6.0.0"
+        },
+        "compile": {
+          "lib/net8.0/GraphQL.Client.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/GraphQL.Client.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GraphQL.Client.Abstractions/6.1.0": {
+        "type": "package",
+        "dependencies": {
+          "GraphQL.Primitives": "6.1.0"
+        },
+        "compile": {
+          "lib/net8.0/GraphQL.Client.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/GraphQL.Client.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GraphQL.Client.Abstractions.Websocket/6.1.0": {
+        "type": "package",
+        "dependencies": {
+          "GraphQL.Client.Abstractions": "6.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.Client.Abstractions.Websocket.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.Client.Abstractions.Websocket.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GraphQL.Client.Serializer.SystemTextJson/6.1.0": {
+        "type": "package",
+        "dependencies": {
+          "GraphQL.Client.Abstractions.Websocket": "6.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GraphQL.Client.Serializer.SystemTextJson.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Client.Serializer.SystemTextJson.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GraphQL.Primitives/6.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/GraphQL.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/GraphQL.Primitives.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Reactive/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Reactive.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Movies.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Movies.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphQL.Client/6.1.0": {
+      "sha512": "oKliAxtNuZDMxO9079mjSbwA0YwhjXBzVnVPuNZ3HI4OllO++CcOLT30l90mM/fxCAMaa8GU4ZYMwD9YjLkyiw==",
+      "type": "package",
+      "path": "graphql.client/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "graphql.client.6.1.0.nupkg.sha512",
+        "graphql.client.nuspec",
+        "lib/net461/GraphQL.Client.dll",
+        "lib/net461/GraphQL.Client.xml",
+        "lib/net6.0/GraphQL.Client.dll",
+        "lib/net6.0/GraphQL.Client.xml",
+        "lib/net7.0/GraphQL.Client.dll",
+        "lib/net7.0/GraphQL.Client.xml",
+        "lib/net8.0/GraphQL.Client.dll",
+        "lib/net8.0/GraphQL.Client.xml",
+        "lib/netstandard2.0/GraphQL.Client.dll",
+        "lib/netstandard2.0/GraphQL.Client.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "GraphQL.Client.Abstractions/6.1.0": {
+      "sha512": "Za31wjKLEeROZYJmp0Lmj/TLQ1Yw6x6QM0JHABcuyMC3OSopr34ufayrtdxtbL1a3129FTVFKOFC0hcooSQoJQ==",
+      "type": "package",
+      "path": "graphql.client.abstractions/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "graphql.client.abstractions.6.1.0.nupkg.sha512",
+        "graphql.client.abstractions.nuspec",
+        "lib/net6.0/GraphQL.Client.Abstractions.dll",
+        "lib/net6.0/GraphQL.Client.Abstractions.xml",
+        "lib/net7.0/GraphQL.Client.Abstractions.dll",
+        "lib/net7.0/GraphQL.Client.Abstractions.xml",
+        "lib/net8.0/GraphQL.Client.Abstractions.dll",
+        "lib/net8.0/GraphQL.Client.Abstractions.xml",
+        "lib/netstandard2.0/GraphQL.Client.Abstractions.dll",
+        "lib/netstandard2.0/GraphQL.Client.Abstractions.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "GraphQL.Client.Abstractions.Websocket/6.1.0": {
+      "sha512": "PjdG3q4MzPsa5NiBOBhuIRMRTo59der5bFmX2r1gSS3RIjytwpooxF2RffFCBh16sqbwuH1/dllDcNG+EJt1qA==",
+      "type": "package",
+      "path": "graphql.client.abstractions.websocket/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "graphql.client.abstractions.websocket.6.1.0.nupkg.sha512",
+        "graphql.client.abstractions.websocket.nuspec",
+        "lib/netstandard2.0/GraphQL.Client.Abstractions.Websocket.dll",
+        "lib/netstandard2.0/GraphQL.Client.Abstractions.Websocket.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "GraphQL.Client.Serializer.SystemTextJson/6.1.0": {
+      "sha512": "9NoK4aFbSoKy+k2DaetliutrMbDSaKSDfhIaYU7NhqQXVE02eobpL2JxG4HBwxTqwzEonsbcew3i/g1cE9QucQ==",
+      "type": "package",
+      "path": "graphql.client.serializer.systemtextjson/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "graphql.client.serializer.systemtextjson.6.1.0.nupkg.sha512",
+        "graphql.client.serializer.systemtextjson.nuspec",
+        "lib/netcoreapp3.1/GraphQL.Client.Serializer.SystemTextJson.dll",
+        "lib/netcoreapp3.1/GraphQL.Client.Serializer.SystemTextJson.xml",
+        "lib/netstandard2.0/GraphQL.Client.Serializer.SystemTextJson.dll",
+        "lib/netstandard2.0/GraphQL.Client.Serializer.SystemTextJson.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "GraphQL.Primitives/6.1.0": {
+      "sha512": "L8yQ70Wd9p8hMJvnmpgyZfr2R6Q7S0/lPyEBI1tacJa5XzsoJSVtHdmfsMaHyufwk03hlUsBXgNerAs66kxHdA==",
+      "type": "package",
+      "path": "graphql.primitives/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "graphql.primitives.6.1.0.nupkg.sha512",
+        "graphql.primitives.nuspec",
+        "lib/net6.0/GraphQL.Primitives.dll",
+        "lib/net6.0/GraphQL.Primitives.xml",
+        "lib/net7.0/GraphQL.Primitives.dll",
+        "lib/net7.0/GraphQL.Primitives.xml",
+        "lib/net8.0/GraphQL.Primitives.dll",
+        "lib/net8.0/GraphQL.Primitives.xml",
+        "lib/netstandard2.0/GraphQL.Primitives.dll",
+        "lib/netstandard2.0/GraphQL.Primitives.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "System.Reactive/6.0.0": {
+      "sha512": "31kfaW4ZupZzPsI5PVe77VhnvFF55qgma7KZr/E0iFTs6fmdhhG8j0mgEx620iLTey1EynOkEfnyTjtNEpJzGw==",
+      "type": "package",
+      "path": "system.reactive/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net6.0-windows10.0.19041/_._",
+        "build/net6.0/_._",
+        "buildTransitive/net6.0-windows10.0.19041/_._",
+        "buildTransitive/net6.0/_._",
+        "icon.png",
+        "lib/net472/System.Reactive.dll",
+        "lib/net472/System.Reactive.xml",
+        "lib/net6.0-windows10.0.19041/System.Reactive.dll",
+        "lib/net6.0-windows10.0.19041/System.Reactive.xml",
+        "lib/net6.0/System.Reactive.dll",
+        "lib/net6.0/System.Reactive.xml",
+        "lib/netstandard2.0/System.Reactive.dll",
+        "lib/netstandard2.0/System.Reactive.xml",
+        "lib/uap10.0.18362/System.Reactive.dll",
+        "lib/uap10.0.18362/System.Reactive.pri",
+        "lib/uap10.0.18362/System.Reactive.xml",
+        "readme.md",
+        "system.reactive.6.0.0.nupkg.sha512",
+        "system.reactive.nuspec"
+      ]
+    },
+    "Movies.Models/1.0.0": {
+      "type": "project",
+      "path": "../Movies.Models/Movies.Models.csproj",
+      "msbuildProject": "../Movies.Models/Movies.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GraphQL.Client >= 6.1.0",
+      "GraphQL.Client.Serializer.SystemTextJson >= 6.1.0",
+      "Movies.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mojtaba\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.GraphQL.Client\\Movies.GraphQL.Client.csproj",
+      "projectName": "Movies.GraphQL.Client",
+      "projectPath": "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.GraphQL.Client\\Movies.GraphQL.Client.csproj",
+      "packagesPath": "C:\\Users\\Mojtaba\\.nuget\\packages\\",
+      "outputPath": "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.GraphQL.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mojtaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.Models\\Movies.Models.csproj": {
+              "projectPath": "D:\\Back-end\\C# .Net\\Practices\\Udemy\\GraphQL\\Movies\\Movies.Models\\Movies.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "GraphQL.Client": {
+            "target": "Package",
+            "version": "[6.1.0, )"
+          },
+          "GraphQL.Client.Serializer.SystemTextJson": {
+            "target": "Package",
+            "version": "[6.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

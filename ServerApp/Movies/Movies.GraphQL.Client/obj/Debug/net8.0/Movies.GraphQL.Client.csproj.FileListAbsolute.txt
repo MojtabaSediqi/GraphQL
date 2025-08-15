@@ -1,0 +1,15 @@
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.deps.json
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.pdb
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.Models.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.Models.pdb
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.csproj.AssemblyReference.cache
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.AssemblyInfoInputs.cache
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.AssemblyInfo.cs
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.csproj.CoreCompileInputs.cache
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.G.EC8F8694.Up2Date
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\refint\Movies.GraphQL.Client.dll
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.pdb
+D:\Back-end\C# .Net\Practices\Udemy\GraphQL\Movies\Movies.GraphQL.Client\obj\Debug\net8.0\ref\Movies.GraphQL.Client.dll
